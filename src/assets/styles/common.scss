@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+body{
+    font-family: Roboto;
+}
+button{
+    background: transparent;
+    border: none;
+    font-family: Roboto;
+    cursor: pointer;
+}
+.none{
+    display: none !important;
+}
